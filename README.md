@@ -1,2 +1,2 @@
 # dotfiles
-№ I'll add my configs very soon.
+# I'll add my configs very soon.
