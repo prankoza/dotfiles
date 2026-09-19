@@ -33,3 +33,7 @@ ln -sf ~/dotfiles/alacritty/alacritty.toml ~/.config/alacritty/alacritty.toml
 - **Gentoo Linux** - sudo emerge -a alacritty
 
 ### 4. Enjoy!
+
+---
+
+Made by [prankoza](https://github.com/prankoza)
