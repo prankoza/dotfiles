@@ -1,0 +1,18 @@
+
+[terminal.shell]
+program = "/bin/fish"
+# args = ["-l"]
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "JetBrainsMonoNL NFP"
+style = "Bold"
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/gruvbox_dark.toml"
+]
+
+[terminal]
