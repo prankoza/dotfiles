@@ -13,14 +13,17 @@ My personal configuration files for Void Linux with dwm.
 
 ### 1. Clone the repository
 
+```bash
 git clone https://github.com/prankoza/dotfiles.git ~/dotfiles
 cd ~/dotfiles
+```
 
 ### 2. Symlink configs
 
-# Alacritty
+```bash
 mkdir -p ~/.config/alacritty
 ln -sf ~/dotfiles/alacritty/alacritty.toml ~/.config/alacritty/alacritty.toml
+```
 
 ### 3. Install packages
 
