@@ -1,2 +1,2 @@
 # dotfiles
-my dotfiles of dwm, neovim, alacritty
+№ I'll add my configs very soon.
