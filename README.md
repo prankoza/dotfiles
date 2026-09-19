@@ -24,7 +24,9 @@ ln -sf ~/dotfiles/alacritty/alacritty.toml ~/.config/alacritty/alacritty.toml
 
 ### 3. Install packages
 
-Void linux: sudo xbps-install -S alacritty
-Debian: sudo apt install alacritty
-Arch Linux Based: sudo pacman -S alacritty
-Gentoo Linux: sudo emerge -a alacritty
+- **Void linux** - sudo xbps-install -S alacritty
+- **Debian** - sudo apt install alacritty
+- **Arch Linux Based** - sudo pacman -S alacritty
+- **Gentoo Linux** - sudo emerge -a alacritty
+
+### 4. Enjoy!
